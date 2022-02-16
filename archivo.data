@@ -1,0 +1,9 @@
+NOMBRE_MES : AÑO  = (
+    ["PRODUCTO 1", 25, 33];
+    ["PRODUCTO 2", 35.75, 10];
+    ["PRODUCTO 3", 10, 170];
+    ["PRODUCTO 4", 5, 33];
+    ["PRODUCTO 5", 64, 38];
+    ["PRODUCTO 6", 8, ];
+    
+)
